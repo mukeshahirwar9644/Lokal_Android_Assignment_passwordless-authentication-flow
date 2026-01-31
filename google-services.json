@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_id": "passwordless-auth-demo",
+    "project_number": "123456789",
+    "firebase_url": "https://passwordless-auth-demo.firebaseio.com",
+    "project_id": "passwordless-auth-demo",
+    "storage_bucket": "passwordless-auth-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789:android:abcdef",
+        "android_client_info": {
+          "package_name": "com.passwordlessauth.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "demo-key-replace-with-actual-key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
